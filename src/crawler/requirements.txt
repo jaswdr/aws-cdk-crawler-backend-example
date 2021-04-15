@@ -5,4 +5,4 @@ boto3==1.17.48
 requests==2.25.1
 geopy==2.1.0
 cachetools==4.2.1
-orjson==3.5.1
+orjson==3.5.2
